@@ -9,63 +9,63 @@
     {
         "name": "Bench Press",
         "description": "Targets the chest, shoulders, and triceps.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/2.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/2.png",
         "songName": "song2.mp3",
         "exerciseType": "Medium"
     },
     {
         "name": "Deadlift",
         "description": "A powerful full-body movement that focuses on the back and legs.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/3.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/3.png",
         "songName": "song3.mp3",
         "exerciseType": "Hard"
     },
     {
         "name": "Pull-Up",
         "description": "A great bodyweight movement for building upper-body strength.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/4.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/4.png",
         "songName": "song4.mp3",
         "exerciseType": "Medium"
     },
     {
         "name": "Barbell Row",
         "description": "Targets the upper and mid-back muscles.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/5.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/5.png",
         "songName": "song5.mp3",
         "exerciseType": "Medium"
     },
     {
         "name": "Overhead Press",
         "description": "Builds shoulder and upper-body strength.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/6.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/6.png",
         "songName": "song6.mp3",
         "exerciseType": "Medium"
     },
     {
         "name": "Bicep Curl",
         "description": "Isolates the biceps for maximum growth.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/7.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/7.png",
         "songName": "song7.mp3",
         "exerciseType": "Easy"
     },
     {
         "name": "Tricep Dips",
         "description": "A bodyweight movement that targets the triceps.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/8.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/8.png",
         "songName": "song8.mp3",
         "exerciseType": "Easy"
     },
     {
         "name": "Lunges",
         "description": "Improves balance and strengthens the legs.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/9.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/9.png",
         "songName": "song9.mp3",
         "exerciseType": "Easy"
     },
     {
         "name": "Leg Press",
         "description": "A lower body movement that isolates the quads.",
-        "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/10.png",
+        "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/10.png",
         "songName": "workout-127274.mp3",
         "exerciseType": "Medium"
     }
