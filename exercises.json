@@ -58,18 +58,19 @@
         },
         {
             "name": "Lunges",
-            "description": "A lower body exercise that targets the quads, glutes, and hamstrings.",
+            "description": "Improves balance and strengthens the legs.",
             "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/9.png",
             "songName": "song9.mp3",
-            "exerciseType": "Medium"
+            "exerciseType": "Easy"
         },
         {
             "name": "Leg Press",
-            "description": "A machine-based movement for building lower body strength.",
+            "description": "A lower body movement that isolates the quads.",
             "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/10.png",
-            "songName": "song10.mp3",
+            "songName": "workout-172774.mp3",
             "exerciseType": "Medium"
         }
     ]
 }
+
 
