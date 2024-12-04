@@ -66,7 +66,7 @@
         {
             "name": "Leg Press",
             "description": "A lower body movement that isolates the quads.",
-            "imageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/main/10.png",
+            "imageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/10.png",
             "songName": "https://github.com/shahab202/ExersiceApp/raw/refs/heads/main/workout-172774.mp3",
             "exerciseType": "Medium"
         }
