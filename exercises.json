@@ -6,7 +6,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/1.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/1.mp3",
       "exerciseType": "Hard",
-      "websiteURL": "https://www.verywellfit.com/how-to-do-the-squat-exercise-3120573"
+      "websiteURL": "https://www.bodybuilding.com/exercises/squat"
     },
     {
       "name": "Bench Press",
@@ -22,7 +22,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/3.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/3.mp3",
       "exerciseType": "Hard",
-      "websiteURL": "https://www.verywellfit.com/how-to-deadlift-3120045"
+      "websiteURL": "https://www.bodybuilding.com/exercises/deadlift"
     },
     {
       "name": "Pull-Up",
@@ -30,7 +30,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/4.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/4.mp3",
       "exerciseType": "Medium",
-      "websiteURL": "https://www.coachmag.co.uk/pull-up/6364/how-to-do-pull-ups"
+      "websiteURL": "https://www.bodybuilding.com/exercises/pull-up"
     },
     {
       "name": "Barbell Row",
@@ -38,7 +38,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/5.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/5.mp3",
       "exerciseType": "Medium",
-      "websiteURL": "https://www.coachmag.co.uk/barbell-row/7418/how-to-master-the-barbell-row"
+      "websiteURL": "https://www.bodybuilding.com/exercises/barbell-row"
     },
     {
       "name": "Overhead Press",
@@ -46,7 +46,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/6.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/6.mp3",
       "exerciseType": "Medium",
-      "websiteURL": "https://www.verywellfit.com/how-to-do-a-shoulder-press-3498388"
+      "websiteURL": "https://www.bodybuilding.com/exercises/overhead-press"
     },
     {
       "name": "Bicep Curl",
@@ -54,7 +54,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/7.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/7.mp3",
       "exerciseType": "Easy",
-      "websiteURL": "https://www.coachmag.co.uk/biceps-exercises/8012/how-to-do-bicep-curls"
+      "websiteURL": "https://www.bodybuilding.com/exercises/bicep-curl"
     },
     {
       "name": "Tricep Dips",
@@ -62,7 +62,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/8.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/8.mp3",
       "exerciseType": "Easy",
-      "websiteURL": "https://www.healthline.com/health/tricep-dips"
+      "websiteURL": "https://www.bodybuilding.com/exercises/tricep-dip"
     },
     {
       "name": "Lunges",
@@ -70,7 +70,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/9.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/9.mp3",
       "exerciseType": "Easy",
-      "websiteURL": "https://www.verywellfit.com/how-to-do-the-lunge-exercise-3120080"
+      "websiteURL": "https://www.bodybuilding.com/exercises/lunge"
     },
     {
       "name": "Leg Press",
