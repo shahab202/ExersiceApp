@@ -3,85 +3,86 @@
     {
       "name": "Squat",
       "description": "A great lower body exercise that works the quads, glutes, and hamstrings.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/1.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/1.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/logo.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/1.mp3",
       "exerciseType": "Hard",
       "websiteURL": "https://www.verywellfit.com/how-to-do-the-squat-exercise-3120573"
     },
     {
       "name": "Bench Press",
       "description": "Targets the chest, shoulders, and triceps.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/2.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/2.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/2.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/2.mp3",
       "exerciseType": "Hard",
       "websiteURL": "https://www.bodybuilding.com/exercises/bench-press"
     },
     {
       "name": "Deadlift",
       "description": "A powerful full-body movement that focuses on the back and legs.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/3.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/3.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/3.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/3.mp3",
       "exerciseType": "Hard",
       "websiteURL": "https://www.verywellfit.com/how-to-deadlift-3120045"
     },
     {
       "name": "Pull-Up",
       "description": "A great bodyweight movement for building upper-body strength.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/4.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/4.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/4.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/4.mp3",
       "exerciseType": "Medium",
       "websiteURL": "https://www.coachmag.co.uk/pull-up/6364/how-to-do-pull-ups"
     },
     {
       "name": "Barbell Row",
       "description": "Targets the upper and mid-back muscles.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/5.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/5.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/5.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/5.mp3",
       "exerciseType": "Medium",
       "websiteURL": "https://www.coachmag.co.uk/barbell-row/7418/how-to-master-the-barbell-row"
     },
     {
       "name": "Overhead Press",
       "description": "Builds shoulder and upper-body strength.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/6.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/6.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/6.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/6.mp3",
       "exerciseType": "Medium",
       "websiteURL": "https://www.verywellfit.com/how-to-do-a-shoulder-press-3498388"
     },
     {
       "name": "Bicep Curl",
       "description": "Isolates the biceps for maximum growth.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/7.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/7.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/7.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/7.mp3",
       "exerciseType": "Easy",
       "websiteURL": "https://www.coachmag.co.uk/biceps-exercises/8012/how-to-do-bicep-curls"
     },
     {
       "name": "Tricep Dips",
       "description": "A bodyweight movement that targets the triceps.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/8.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/8.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/8.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/8.mp3",
       "exerciseType": "Easy",
       "websiteURL": "https://www.healthline.com/health/tricep-dips"
     },
     {
       "name": "Lunges",
       "description": "Improves balance and strengthens the legs.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/9.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/9.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/9.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/9.mp3",
       "exerciseType": "Easy",
       "websiteURL": "https://www.verywellfit.com/how-to-do-the-lunge-exercise-3120080"
     },
     {
       "name": "Leg Press",
       "description": "A lower body movement that isolates the quads.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/10.png",
-      "songName": "https://raw.githubusercontent.com/shahab202/ExerciseApp/refs/heads/main/workout-172774.mp3",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/10.png",
+      "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/workout-172774.mp3",
       "exerciseType": "Medium",
       "websiteURL": "https://www.bodybuilding.com/exercises/leg-press"
     }
   ]
 }
+
 
 
 
