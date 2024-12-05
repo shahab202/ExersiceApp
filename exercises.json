@@ -3,7 +3,7 @@
     {
       "name": "Squat",
       "description": "A great lower body exercise that works the quads, glutes, and hamstrings.",
-      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/logo.png",
+      "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/refs/heads/main/logo.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/main/1.mp3",
       "exerciseType": "Hard",
       "websiteURL": "https://www.verywellfit.com/how-to-do-the-squat-exercise-3120573"
