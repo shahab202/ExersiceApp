@@ -14,7 +14,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/2.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/2.mp3",
       "exerciseType": "Hard",
-      "websiteURL": "https://www.bodybuilding.com/workout-plans/about/jim-stoppanis-12-week-shortcut-to-size"
+      "websiteURL": "https://barbend.com/best-bench-press-programs/"
     },
     {
       "name": "Deadlift",
@@ -22,7 +22,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/3.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/3.mp3",
       "exerciseType": "Hard",
-      "websiteURL": "https://www.bodybuilding.com/exercises/deadlift"
+      "websiteURL": "https://powerliftingtechnique.com/deadlift-day/"
     },
     {
       "name": "Pull-Up",
@@ -30,7 +30,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/4.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/4.mp3",
       "exerciseType": "Medium",
-      "websiteURL": "https://www.bodybuilding.com/exercises/pull-up"
+      "websiteURL": "https://www.muscleandfitness.com/workouts/workout-tips/the-10-step-pull-up-progression-guide-for-beginners/"
     },
     {
       "name": "Barbell Row",
@@ -38,7 +38,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/5.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/5.mp3",
       "exerciseType": "Medium",
-      "websiteURL": "https://www.bodybuilding.com/exercises/barbell-row"
+      "websiteURL": "https://barbend.com/barbell-row/"
     },
     {
       "name": "Overhead Press",
@@ -46,7 +46,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/6.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/6.mp3",
       "exerciseType": "Medium",
-      "websiteURL": "https://www.bodybuilding.com/exercises/overhead-press"
+      "websiteURL": "https://barbend.com/overhead-press/"
     },
     {
       "name": "Bicep Curl",
@@ -54,7 +54,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/7.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/7.mp3",
       "exerciseType": "Easy",
-      "websiteURL": "https://www.bodybuilding.com/exercises/bicep-curl"
+      "websiteURL": "https://www.verywellfit.com/how-to-do-the-biceps-arm-curl-3498604"
     },
     {
       "name": "Tricep Dips",
@@ -62,7 +62,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/8.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/8.mp3",
       "exerciseType": "Easy",
-      "websiteURL": "https://www.bodybuilding.com/exercises/tricep-dip"
+      "websiteURL": "https://www.verywellfit.com/the-chair-dip-triceps-exercise-3120734"
     },
     {
       "name": "Lunges",
@@ -70,7 +70,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/9.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/9.mp3",
       "exerciseType": "Easy",
-      "websiteURL": "https://www.bodybuilding.com/exercises/lunge"
+      "websiteURL": "https://www.verywellfit.com/how-to-lunge-variations-modifications-and-mistakes-1231320"
     },
     {
       "name": "Leg Press",
@@ -78,7 +78,7 @@
       "exerciseImageName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/10.png",
       "songName": "https://raw.githubusercontent.com/shahab202/ExersiceApp/master/workout-172774.mp3",
       "exerciseType": "Medium",
-      "websiteURL": "https://www.bodybuilding.com/exercises/leg-press"
+      "websiteURL": "https://www.verywellfit.com/how-to-do-the-leg-press-3498610"
     }
   ]
 }
